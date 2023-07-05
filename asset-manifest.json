@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/country_filter/static/css/main.3b70d701.css",
+    "main.js": "/country_filter/static/js/main.aafcff19.js",
+    "index.html": "/country_filter/index.html",
+    "main.3b70d701.css.map": "/country_filter/static/css/main.3b70d701.css.map",
+    "main.aafcff19.js.map": "/country_filter/static/js/main.aafcff19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b70d701.css",
+    "static/js/main.aafcff19.js"
+  ]
+}
